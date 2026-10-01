@@ -1,25 +1,33 @@
-# By TobiDevelopment
-Snake Game with Enemy
+# Python Games Collection
 
-Overview:
-A classic Snake game with an added enemy that moves independently on the board. The player controls the snake, collects food to grow, and avoids colliding with walls, itself, or the enemy.
+A collection of small Python game projects created to practice programming logic, loops, functions, user input, and basic game mechanics.
 
-Features:
-- Player-controlled snake movement.
-- Food spawning to grow the snake.
-- Enemy that moves around and blocks the path.
-- Game over on collision with walls, the snake itself, or the enemy.
-- Score tracking based on food collected.
+## Purpose
 
-Controls:
-- Arrow keys or WASD to move the snake.
+This repository shows my learning path with Python and game development fundamentals.
 
-Gameplay:
-- The snake grows longer each time it eats food.
-- The enemy moves autonomously and increases difficulty.
-- Avoid the enemy and manage the snake's length to survive.
+## Skills Demonstrated
 
-Notes:
-- The enemy adds an extra challenge beyond the standard Snake game.
-- Make sure the game window is focused to use controls.
+- Python syntax and structure
+- Game loops
+- User input handling
+- Basic UI/game logic
+- Problem solving
+- Code organization
 
+## Possible Projects
+
+- Snake game
+- Arcade-style mini games
+- Farm game prototype
+- Menu systems
+- Score tracking
+- Power-ups and simple effects
+
+## Next Improvements
+
+- Add screenshots or gameplay GIFs
+- Add clear run instructions for each game
+- Separate games into folders
+- Add requirements file if external libraries are used
+- Improve menu UI and sound effects
